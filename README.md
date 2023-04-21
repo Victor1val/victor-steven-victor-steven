@@ -1,3 +1,3 @@
 ﻿# Tarea en grupo.
- Víctor Valverde Olmedo
+ Víctor Valverde Olmedo, 
  Steven Cubillos García
